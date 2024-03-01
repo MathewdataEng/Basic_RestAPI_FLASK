@@ -74,12 +74,3 @@
 </div>
 </div>
 
-
-          </div>
-        </div>
-      </div>
-      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper"><p class="logo"><a href="index.html">
-  <img class="logo" src="_static/flask-restful-small.png" alt="Logo"
-    style="margin-left: -10px"/>
-</a></p>
